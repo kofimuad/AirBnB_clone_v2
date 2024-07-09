@@ -3,6 +3,13 @@
 This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 
 ---
+<p align="center">
+  <img src="https://github.com/bdbaraban/AirBnB_clone_v2/blob/master/assets/hbnb_stack.png"
+	    alt="HolbertonBnB stack">
+</p>
+
+## This repo was forked and edited for educational purposes by:
+* **Bismark Agyei**<[kofimuad](https://github.com/kofimuad)>
 
 <center><h3>Repository Contents by Project Task</h3> </center>
 
